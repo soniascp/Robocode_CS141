@@ -1,5 +1,5 @@
 # Robocode_CS141
-TEAM NAME:
+TEAM NAME: The Gladiators
 
 GROUP MEMBERS:
 -SONIA CARRILLO
